@@ -39,6 +39,8 @@ Untuk menyalakan server backend dengan fitur auto-reload dari nodemon, run comma
 npm run dev
 ```
 
+Kemudian lakukan pengujian menggunakan Postman, saya sendiri menggunakan EchoAPI untuk pengujiannya
+
 
 
 
