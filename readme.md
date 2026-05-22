@@ -12,7 +12,6 @@ Repo ini berisi code backend REST API untuk memenuhi **180DC Phase 3 Recruitment
 
 ### 1. Install Dependencies
 Make sure Node.js sudah terinstal, and then run command berikut di terminal untuk donglod semua library:
-```bash
 npm install
 
 ### 2. Environment Config
